@@ -1,0 +1,63 @@
+<svg height="958" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="958" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 06:04:32 +0000  1420913 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 06:04:32 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 06:04:32 +0000     3453 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 06:04:32 +0000    69110 bytes  assets/linux.png</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 06:04:32 +0000    63311 bytes  assets/osx.png</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 06:04:32 +0000    36753 bytes  assets/win32.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 06:04:32 +0000      960 bytes  dist/bin/applet.app/Contents/Info.plist</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 06:04:32 +0000    25032 bytes  dist/bin/applet.app/Contents/MacOS/applet</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 06:04:32 +0000        8 bytes  dist/bin/applet.app/Contents/PkgInfo</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 06:04:32 +0000      526 bytes  dist/bin/applet.app/Contents/Resources/Scripts/m\</tspan>
+<tspan x="10" y="186">ain.scpt</tspan>
+<tspan x="10" y="202"> 10.  2017-04-21 06:04:32 +0000    56351 bytes  dist/bin/applet.app/Contents/Resources/applet.ic\</tspan>
+<tspan x="10" y="218">ns</tspan>
+<tspan x="10" y="234"> 11.  2017-04-21 06:04:32 +0000      362 bytes  dist/bin/applet.app/Contents/Resources/applet.rs\</tspan>
+<tspan x="10" y="250">rc</tspan>
+<tspan x="10" y="266"> 12.  2017-04-21 06:04:32 +0000      102 bytes  dist/bin/applet.app/Contents/Resources/descripti\</tspan>
+<tspan x="10" y="282">on.rtfd/TXT.rtf</tspan>
+<tspan x="10" y="298"> 13.  2017-04-21 06:04:32 +0000     1083 bytes  dist/bin/applet.app/LICENSE</tspan>
+<tspan x="10" y="314"> 14.  2017-04-21 06:04:32 +0000   107520 bytes  dist/bin/elevate.exe</tspan>
+<tspan x="10" y="330"> 15.  2017-04-21 06:04:32 +0000    28176 bytes  dist/bin/gksudo</tspan>
+<tspan x="10" y="346"> 16.  2017-04-21 06:04:32 +0000    69720 bytes  dist/bin/libgksu2.so.0</tspan>
+<tspan x="10" y="362"> 17.  2017-04-21 06:04:32 +0000    69720 bytes  dist/bin/libgksu2.so.0.0.2</tspan>
+<tspan x="10" y="378"> 18.  2017-04-21 06:04:32 +0000    48954 bytes  dist/index.js</tspan>
+<tspan x="10" y="394"> 19.  2017-04-21 06:04:32 +0000   300805 bytes  dist/index.js.map</tspan>
+<tspan x="10" y="410"> 20.  2017-04-21 06:04:32 +0000     2759 bytes  package.json</tspan>
+<tspan x="10" y="426"> 21.  2017-04-21 06:04:32 +0000      960 bytes  src/bin/applet.app/Contents/Info.plist</tspan>
+<tspan x="10" y="442"> 22.  2017-04-21 06:04:32 +0000    25032 bytes  src/bin/applet.app/Contents/MacOS/applet</tspan>
+<tspan x="10" y="458"> 23.  2017-04-21 06:04:32 +0000        8 bytes  src/bin/applet.app/Contents/PkgInfo</tspan>
+<tspan x="10" y="474"> 24.  2017-04-21 06:04:32 +0000      526 bytes  src/bin/applet.app/Contents/Resources/Scripts/ma\</tspan>
+<tspan x="10" y="490">in.scpt</tspan>
+<tspan x="10" y="506"> 25.  2017-04-21 06:04:32 +0000    56351 bytes  src/bin/applet.app/Contents/Resources/applet.icn\</tspan>
+<tspan x="10" y="522">s</tspan>
+<tspan x="10" y="538"> 26.  2017-04-21 06:04:32 +0000      362 bytes  src/bin/applet.app/Contents/Resources/applet.rsr\</tspan>
+<tspan x="10" y="554">c</tspan>
+<tspan x="10" y="570"> 27.  2017-04-21 06:04:32 +0000      102 bytes  src/bin/applet.app/Contents/Resources/descriptio\</tspan>
+<tspan x="10" y="586">n.rtfd/TXT.rtf</tspan>
+<tspan x="10" y="602"> 28.  2017-04-21 06:04:32 +0000     1083 bytes  src/bin/applet.app/LICENSE</tspan>
+<tspan x="10" y="618"> 29.  2017-04-21 06:04:32 +0000   107520 bytes  src/bin/elevate.exe</tspan>
+<tspan x="10" y="634"> 30.  2017-04-21 06:04:32 +0000    28176 bytes  src/bin/gksudo</tspan>
+<tspan x="10" y="650"> 31.  2017-04-21 06:04:32 +0000    69720 bytes  src/bin/libgksu2.so.0</tspan>
+<tspan x="10" y="666"> 32.  2017-04-21 06:04:32 +0000    69720 bytes  src/bin/libgksu2.so.0.0.2</tspan>
+<tspan x="10" y="682"> 33.  2017-04-21 06:04:32 +0000      407 bytes  src/index.js</tspan>
+<tspan x="10" y="698"> 34.  2017-04-21 06:04:32 +0000    15565 bytes  src/lib/sudoer.js</tspan>
+<tspan x="10" y="714"> 35.  2017-04-21 06:04:32 +0000     1754 bytes  src/lib/utils.js</tspan>
+<tspan x="10" y="730"> 36.  2017-04-21 06:04:32 +0000     1200 bytes  src/vendor/win32/Elevate.sln</tspan>
+<tspan x="10" y="746"> 37.  2017-04-21 06:04:32 +0000     2317 bytes  src/vendor/win32/Elevate/Elevate.rc</tspan>
+<tspan x="10" y="762"> 38.  2017-04-21 06:04:32 +0000     7275 bytes  src/vendor/win32/Elevate/Elevate.vcproj</tspan>
+<tspan x="10" y="778"> 39.  2017-04-21 06:04:32 +0000     9245 bytes  src/vendor/win32/Elevate/Elevate.vcxproj</tspan>
+<tspan x="10" y="794"> 40.  2017-04-21 06:04:32 +0000     1257 bytes  src/vendor/win32/Elevate/Elevate.vcxproj.filters</tspan>
+<tspan x="10" y="810"> 41.  2017-04-21 06:04:32 +0000     5641 bytes  src/vendor/win32/Elevate/main.c</tspan>
+<tspan x="10" y="826"> 42.  2017-04-21 06:04:32 +0000      387 bytes  src/vendor/win32/Elevate/resource.h</tspan>
+<tspan x="10" y="842"> 43.  2017-04-21 06:04:32 +0000     1115 bytes  src/vendor/win32/Elevate/stdafx.h</tspan>
+<tspan x="10" y="858"> 44.  2017-04-21 06:04:32 +0000     1099 bytes  src/vendor/win32/LICENSE.md</tspan>
+<tspan x="10" y="874"> 45.  2017-04-21 06:04:32 +0000      194 bytes  src/vendor/win32/README.md</tspan>
+<tspan x="10" y="890"> 46.  2017-04-21 06:04:32 +0000     4204 bytes  tests/index.js</tspan>
+<tspan x="10" y="906"> 47.  2017-04-21 06:04:32 +0000      245 bytes  webpack/chmod.js</tspan>
+<tspan x="10" y="922"> 48.  2017-04-21 06:04:32 +0000     2359 bytes  webpack/config.babel.js</tspan>
+<tspan x="10" y="938"> 49.  2017-04-21 06:04:32 +0000   121301 bytes  yarn.lock</tspan>
+</text>
+</svg>
