@@ -35,43 +35,17 @@
 ```json
 
 {
-    "name": "electron-sudo",
-    "version": "4.0.12",
-    "description": "Electron subprocess with administrative privileges, prompting the user with an OS dialog if necessary.",
-    "main": "./dist/index.js",
-    "author": "Aleksandr Komlev",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:automation-stack/electron-sudo.git"
+    "author": {
+        "name": "Aleksandr Komlev"
     },
-    "keywords": [
-        "sudo",
-        "os",
-        "dialog",
-        "prompt",
-        "command",
-        "exec",
-        "ui",
-        "electron",
-        "elevate",
-        "administrative",
-        "privileges",
-        "UAC",
-        "subprocess"
-    ],
     "bugs": {
         "url": "https://github.com/automation-stack/electron-sudo/issues"
     },
-    "homepage": "https://github.com/automation-stack/electron-sudo#readme",
-    "scripts": {
-        "build": "node_modules/webpack/bin/webpack.js --config ./webpack/config.babel.js",
-        "build-win32": "node node_modules\\webpack\\bin\\webpack.js --config webpack\\config.babel.js",
-        "prepublish": "npm run test",
-        "lint": "node_modules/eslint/bin/eslint.js -c .eslintrc ./src",
-        "test-win32": "npm run build-win32 && node node_modules\\mocha\\bin\\mocha --compilers js:babel-core/register tests",
-        "test": "npm run build && node_modules/mocha/bin/mocha --compilers js:babel-core/register ./tests"
+    "dependencies": {
+        "babel-runtime": "^6.18.0",
+        "bluebird": "^3.4.6"
     },
+    "description": "Electron subprocess with administrative privileges, prompting the user with an OS dialog if necessary.",
     "devDependencies": {
         "babel-cli": "^6.10.1",
         "babel-core": "^6.10.4",
@@ -110,10 +84,51 @@
         "webpack-module-hot-accept": "^1.0.4",
         "webpack-shell-plugin": "^0.4.2"
     },
-    "dependencies": {
-        "babel-runtime": "^6.18.0",
-        "bluebird": "^3.4.6"
-    }
+    "directories": {},
+    "dist": {
+        "shasum": "17d27fcb33837b7f6fd3a7946f168d6590566a53",
+        "tarball": "https://registry.npmjs.org/electron-sudo/-/electron-sudo-4.0.12.tgz"
+    },
+    "gitHead": "c08805d35a2dddf796cfe9141ba801fa741f426e",
+    "homepage": "https://github.com/automation-stack/electron-sudo#readme",
+    "keywords": [
+        "sudo",
+        "os",
+        "dialog",
+        "prompt",
+        "command",
+        "exec",
+        "ui",
+        "electron",
+        "elevate",
+        "administrative",
+        "privileges",
+        "UAC",
+        "subprocess"
+    ],
+    "license": "MIT",
+    "main": "./dist/index.js",
+    "maintainers": [
+        {
+            "name": "automation-stack"
+        }
+    ],
+    "name": "electron-sudo",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/automation-stack/electron-sudo.git"
+    },
+    "scripts": {
+        "build": "node_modules/webpack/bin/webpack.js --config ./webpack/config.babel.js",
+        "build-win32": "node node_modules\\webpack\\bin\\webpack.js --config webpack\\config.babel.js",
+        "lint": "node_modules/eslint/bin/eslint.js -c .eslintrc ./src",
+        "prepublish": "npm run test",
+        "test": "npm run build && node_modules/mocha/bin/mocha --compilers js:babel-core/register ./tests",
+        "test-win32": "npm run build-win32 && node node_modules\\mocha\\bin\\mocha --compilers js:babel-core/register tests"
+    },
+    "version": "4.0.12",
+    "bin": {}
 }
 ```
 
